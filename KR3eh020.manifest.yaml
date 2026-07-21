@@ -16,7 +16,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh020_000.yaml, hash: 'sha256:d2aa75629d377d359be09250e0f463dd6aada3619e4f3f736b37f49ac4f5cf52'}
+  - {seq: 0, filename: KR3eh020_000.yaml, hash: 'sha256:1bd11354cafc349fcc7b303821cbd07d6dcaa6168c1745dd1bd3f2542b715e7b'}
   - {seq: 1, filename: KR3eh020_001.yaml, hash: 'sha256:2982689ad9d39c5fa102dd2820a98d2f89d1eead3b9000daa7a16b0eeb0ab2f1'}
   - {seq: 2, filename: KR3eh020_002.yaml, hash: 'sha256:719cef74ad3f807a04b45bc23715fadd7f863f0dfcde2ca6ddc426df246cd192'}
   - {seq: 3, filename: KR3eh020_003.yaml, hash: 'sha256:9f6ed649105af6582b8ce5ee8c8e1d4d54a0d79595c41a37bcdf03bcce033b56'}
@@ -24,7 +24,7 @@ assets:
   - {seq: 5, filename: KR3eh020_005.yaml, hash: 'sha256:5ea86da650356ad552fb3c37113ed2d7f7e6ca426c9e37c08ebd49e625d65c70'}
   - {seq: 6, filename: KR3eh020_006.yaml, hash: 'sha256:1693a0c1f1d37a9669783362e7069f51bd3b01230ff5dfba958d623c60dfe228'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh020_000.markers.yaml, hash: 'sha256:4881caef499d2c2110d079361a75537ae001a4f9becfbfa590399515fee81a37'}
+  - {seq: 0, role: markers, filename: assets/KR3eh020_000.markers.yaml, hash: 'sha256:3e7adb0102a9f24c6ab8664d9e49c16f220b8b74dd65041d33d0c20968d2b556'}
   - {seq: 1, role: markers, filename: assets/KR3eh020_001.markers.yaml, hash: 'sha256:4c2d3e579a46ace07644372484d653f72d73e3a42d23985b7b23344cfb30b321'}
   - {seq: 2, role: markers, filename: assets/KR3eh020_002.markers.yaml, hash: 'sha256:0c128bd3eb5d9e8ad60b4f14c560d9880556fd9dc0e4fa5c2f3682a382047eec'}
   - {seq: 3, role: markers, filename: assets/KR3eh020_003.markers.yaml, hash: 'sha256:633e65ab78997e2cdd3a483204426857e31586f1eb122e80b1142fb37bbc3733'}
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh020_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 325
   label: 序一
@@ -46,7 +46,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh020_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 325
     - 676
   label: 序二
@@ -4412,7 +4412,7 @@ table_of_contents:
   label: 解毒方
   type: section
   level: 3
-hash: sha256:eb3fb33443a1863e88ba2696f713122bff3480624a90ae4e945343aaec37f8e7
+hash: sha256:bf59a9b3a865b310269777fce7f0fb5e32833c3f74d84a34c5b7f9734c957775
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

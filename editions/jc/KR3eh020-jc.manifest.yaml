@@ -16,7 +16,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eh020_000-jc.yaml, hash: 'sha256:bf9cc5de45626e25962bf6a7d0e97b7a30b72fe4cabbddde541a19d2d67c3b7a'}
+  - {seq: 0, filename: KR3eh020_000-jc.yaml, hash: 'sha256:8e784628b4ed261f98e60bd0fea20107b93f48e4bb9733039c7cc76d1aa4f73e'}
   - {seq: 1, filename: KR3eh020_001-jc.yaml, hash: 'sha256:4c3d9dfa25da4c77bdd0ea1e10505216e0739a8a09511a70fc2b8a37f3950968'}
   - {seq: 2, filename: KR3eh020_002-jc.yaml, hash: 'sha256:e0ba9af619bb50480330b7fc6aaed20cc495d59676d1ae765a89fae4fecd4933'}
   - {seq: 3, filename: KR3eh020_003-jc.yaml, hash: 'sha256:33cbde03d1d91488104ed2a155193a3541b7f807742d1fbb91e4846cbd6bcfcc'}
@@ -24,7 +24,7 @@ assets:
   - {seq: 5, filename: KR3eh020_005-jc.yaml, hash: 'sha256:6a3ddf915622d4e080cc8607d79f19d1bf0f6ea42b054dafb268ad85d2f3e223'}
   - {seq: 6, filename: KR3eh020_006-jc.yaml, hash: 'sha256:24e870fb3c8201c845120a3733e3db005ea1c5832923402f4c217bf19d032e1f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh020_000-jc.markers.yaml, hash: 'sha256:047f7ca3583b9e3b10cbbab029b869d20912c8b534c5fbfc13949ecbd06ca7dd'}
+  - {seq: 0, role: markers, filename: assets/KR3eh020_000-jc.markers.yaml, hash: 'sha256:958148ed4afde0ae0168be14d8d294a3af5ad7e141ad0a548886b5b71af643c2'}
   - {seq: 1, role: markers, filename: assets/KR3eh020_001-jc.markers.yaml, hash: 'sha256:fd4d72eeca555b8f8d974cb1fe3f23ee45ebbb7c1cf56242ad3befcbfba5e60d'}
   - {seq: 2, role: markers, filename: assets/KR3eh020_002-jc.markers.yaml, hash: 'sha256:5a44a69f0aadc87719ab7f7c0f295228bf577b0c1c259743a6fcabded3be5a11'}
   - {seq: 3, role: markers, filename: assets/KR3eh020_003-jc.markers.yaml, hash: 'sha256:a8f97813d2ef6e57b9525ce3e887d312eff2bbc24492472ce6de316d1b5a2b12'}
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh020_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 325
   label: 序一
@@ -46,7 +46,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh020_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 325
     - 676
   label: 序二
@@ -4412,4 +4412,4 @@ table_of_contents:
   label: 解毒方
   type: section
   level: 3
-hash: sha256:20acc95ba96d5b5b398e75f22721a85c97a7faab53685f02f7b725e877be694d
+hash: sha256:aaf714f1e1b2fceecc8be8b69b36a1577dec7d44714f5da5d02843ebb00b2628
